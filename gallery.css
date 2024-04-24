@@ -93,11 +93,12 @@ nav ul li a:hover {
 }
 
 .gallery-item img {
-    width: 200px;
+    width: 170px;
     height: 300px;
     object-fit: cover;
     margin-top: 30px;
-    margin-left: 27px;
+    margin-left: 45px;
+    margin-right: 10px;
 }
 
 h2 {
